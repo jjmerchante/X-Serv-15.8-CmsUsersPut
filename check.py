@@ -13,7 +13,7 @@ import os
 import random
 import sys
 
-ejercicio = 'X-Serv-15.6-Django-CMS_PUT'
+ejercicio = 'X-Serv-15.8-CmsUsersPut'
 
 student_projname = 'myproject'
 student_appname = 'cms_users_put'
